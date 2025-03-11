@@ -1,1 +1,3 @@
-![kokoroxbanner](https://raw.githubusercontent.com/kokorox2006/kokorox2006/main/kokoroxbanner.png)
+![[Kokoroxbanner.jpg]]
+<center><b><i>Let's connect! Find me on the web.</i></b></center>
+[![X | 10px](Images/dagger.jpeg)](https://x.com/kokorox2006)
