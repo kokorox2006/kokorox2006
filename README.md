@@ -5,16 +5,20 @@
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
  </p>
-<p align="center">
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="30" style="border-radius: 50%;"/>
+<p align="center" >
+  <a href="https://discord.com/users/meloxmubee" target="_blank">
+    <img src="https://github.com/MKisKrazy/kokorox2006/blob/patch-1/Images/discordimg-modified.png" alt="Discord" width="60" style="border-radius: 50%;"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://github.com/kokorox2006/kokorox2006/blob/main/Images/dagger.jpeg" alt="X (Twitter)" width="100" style="border-radius: 100%;"/>
+  <a href="https://x.com/kokorox2006" target="_blank">
+    <img src="https://github.com/MKisKrazy/kokorox2006/blob/patch-1/Images/dagger%20da-modified.png" alt="X (Twitter)" width="60" style="border-radius: 50%;"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="30" style="border-radius: 50%;"/>
+   <a href="https://bsky.app/profile/kokorox2006.bsky.social" target="_blank">
+    <img src="https://github.com/MKisKrazy/kokorox2006/blob/patch-1/Images/busy-removebg-preview.png" alt="bluesky" width="60" style="border-radius: 50%;"/>
   </a>
+  <a href="mailto:kokorox2006@gmail.com" target="_blank">
+    <img src="https://github.com/MKisKrazy/kokorox2006/blob/patch-1/Images/gmailimg-modified.png" alt="Gmail" width="60" style="border-radius: 50%;"/>
+  </a>
+ 
 </p>
 
 
