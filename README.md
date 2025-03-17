@@ -28,5 +28,5 @@
 
 - 🌱 I'm self taught developer who likes to contribute to Open-Source :thinking:
 - 👯 I'm open for remote work so that I can get oppurtunity to work with great minds :slightly_smiling_face:
-- 💬 I'm currently learning devops:grin:
+- 💬 I'm currently learning devops :grin:
 - ⚡ Fun Fact :- In my personal time I like to practice movies dialougue
