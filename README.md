@@ -1,9 +1,9 @@
-
 <div style="text-align: center;">
-  <img src="https://github.com/kokorox2006/kokorox2006/blob/main/Images/Kokoroxbanner.jpg" alt="Profile Pic" style="border-radius: 50%; width: 1200px; height: 300px;" />
+  <img src="https://github.com/kokorox2006/kokorox2006/blob/main/Images/Kokoroxbanner.gif" alt="Profile Pic" style="border-radius: 50%; width: 1200px; height: 300px;" />
 </div>
 
 ##
+
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
  </p>
@@ -24,7 +24,6 @@
 </p>
 <br />
 <hr />
-
 
 - 🌱 I'm self taught developer who likes to contribute to Open-Source :thinking:
 - 👯 I'm open for remote work so that I can get oppurtunity to work with great minds :slightly_smiling_face:
