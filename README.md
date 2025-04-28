@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/kokorox2006/kokorox2006/blob/main/Images/Kokoroxbanner.gif" alt="Profile Pic" style="border-radius: 50%; width: 1200px; height: 430px;" />
+  <img src="https://github.com/kokorox2006/kokorox2006/blob/main/Images/Kokoroxbanner.gif" alt="Profile Pic" style="border-radius: 50%; width: 1200px; height: 420px;" />
 </div>
 
 ##
